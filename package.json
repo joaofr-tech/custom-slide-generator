@@ -35,5 +35,13 @@
   },
   "engines": {
     "node": ">=16.0.0"
-  }
+  },
+  "files": [
+    "bin",
+    "lib",
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "examples"
+  ]
 }
