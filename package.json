@@ -1,0 +1,39 @@
+{
+  "name": "custom-slide-generator",
+  "version": "1.0.0",
+  "description": "Universal AI Agent Skill & CLI tool to generate clean deterministic PowerPoint (.pptx) presentations with minimalist flat stickers.",
+  "main": "lib/generator.js",
+  "bin": {
+    "custom-slide-generator": "./bin/cli.js",
+    "slide-maker": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node ./bin/cli.js",
+    "test": "node ./bin/cli.js --help"
+  },
+  "keywords": [
+    "agent-skill",
+    "claude-skill",
+    "codex",
+    "gemini",
+    "grok",
+    "openmausbot",
+    "pptx",
+    "powerpoint",
+    "slide-generator",
+    "npx",
+    "cli"
+  ],
+  "author": "joaofr-tech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaofr-tech/custom-slide-generator.git"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

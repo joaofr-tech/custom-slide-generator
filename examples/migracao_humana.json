@@ -1,0 +1,111 @@
+{
+  "default_date": "Outubro, 2026",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "História da Humanidade",
+      "title": "Das Origens Nômades às Primeiras Cidades da História",
+      "author_label": "Apresentação:",
+      "author_val": "Grandes Migrações & Civilização",
+      "date": "Outubro, 2026",
+      "icon": "C:/Users/João/.openmausbot/providers/antigravity/ac0a3dfd6dddb20962cecff6ee5fe65e19d3923be20e52c5ab52ff877f7e4c32/antigravity-acp/brain/5094a992-1fb9-49d7-8757-e1656cdd67ef/icon_hist_slide1_cover_1792798606109.jpg",
+      "note": "Hoje faremos uma viagem fascinante pela história profunda da nossa espécie: desde os primeiros passos do Homo sapiens no continente africano, cruzando mares e pontes de gelo, até a revolução agrícola e o nascimento da primeira grande civilização humana na Mesopotâmia."
+    },
+    {
+      "type": "content",
+      "title": "O Berço Africano e a Grande Saída",
+      "date": "Outubro, 2026",
+      "icon": "C:/Users/João/.openmausbot/providers/antigravity/ac0a3dfd6dddb20962cecff6ee5fe65e19d3923be20e52c5ab52ff877f7e4c32/antigravity-acp/brain/5094a992-1fb9-49d7-8757-e1656cdd67ef/icon_hist_slide2_africa_1792798638664.jpg",
+      "paragraphs": [
+        [
+          ["Tudo começa na ", false],
+          ["África Oriental há cerca de 200 a 300 mil anos", true],
+          [", onde o Homo sapiens viveu durante milênios sob o modo de vida nômade de caça e coleta.", false]
+        ],
+        [
+          ["Mudanças climáticas severas tornaram regiões africanas áridas, atuando como um ", false],
+          ["gatilho ecológico", true],
+          [" que compeliu pequenos clãs a buscar novas fontes estáveis de água e caça.", false]
+        ],
+        [
+          ["Há cerca de 70 a 60 mil anos ocorre o ", false],
+          ["movimento Out of Africa", true],
+          [": cruzando o estreito de Bab-el-Mandeb rumo à Península Arábica, iniciou-se a expansão humana pelo continente asiático.", false]
+        ]
+      ],
+      "note": "Nosso ponto de partida é a África Oriental. Durante a maior parte da nossa existência, fomos nômades. Mas quando o clima secou, a sobrevivência exigiu movimento. Cruzando o Mar Vermelho, pequenos grupos entraram na Ásia, mudando para sempre o destino do planeta."
+    },
+    {
+      "type": "content",
+      "title": "A Era Glacial e a Conquista do Mundo",
+      "date": "Outubro, 2026",
+      "icon": "C:/Users/João/.openmausbot/task-workspaces/d273dfa8-1184-4f1b-bb62-99509a47930e/d6a640a8-0cf6-4393-90ee-d8256811925d/history_icons/icon_slide3_iceage.png",
+      "paragraphs": [
+        [
+          ["Durante a ", false],
+          ["Última Era Glacial", true],
+          [", o volume massivo de água retido nas geleiras continentais rebaixou o nível do mar em cerca de 120 metros.", false]
+        ],
+        [
+          ["O recuo das águas expôs pontes de terra estratégicas, com destaque para a ", false],
+          ["Beríngia", true],
+          [", conectando diretamente a Sibéria ao atual Alasca.", false]
+        ],
+        [
+          ["Rastreando manadas de mamutes e megafauna, grupos humanos ", false],
+          ["cruzaram para as Américas", true],
+          [", enquanto levas paralelas navegavam pelo arquipélago indonésio até alcançar a Austrália.", false]
+        ]
+      ],
+      "note": "O planeta congelado criou oportunidades inesperadas. O mar recuou tanto que formou estradas naturais de terra firme. Seguindo os grandes animais que forneciam alimento e abrigo térmico, o homem pisou pela primeira vez no continente americano e na Oceania."
+    },
+    {
+      "type": "content",
+      "title": "O Grande Derretimento e o Neolítico",
+      "date": "Outubro, 2026",
+      "icon": "C:/Users/João/.openmausbot/task-workspaces/d273dfa8-1184-4f1b-bb62-99509a47930e/d6a640a8-0cf6-4393-90ee-d8256811925d/history_icons/icon_slide4_agriculture.png",
+      "paragraphs": [
+        [
+          ["Há cerca de 11.700 anos encerra-se o período glacial: o ", false],
+          ["aquecimento global natural", true],
+          [" provocou o derretimento maciço do gelo e a elevação dos oceanos.", false]
+        ],
+        [
+          ["A submersão da Beríngia e das rotas costeiras ", false],
+          ["isolou geograficamente", true],
+          [" as populações estabelecidas nas Américas e na Austrália por milênios.", false]
+        ],
+        [
+          ["Com clima temperado e estações previsíveis, surge a ", false],
+          ["Revolução Neolítica", true],
+          [": o domínio da agricultura e domesticação de rebanhos converteu a humanidade nômade em sedentária.", false]
+        ]
+      ],
+      "note": "O fim da Era do Gelo foi o divisor de águas ecológico. O mar subiu e isolou as populações nos continentes. Com o calor estável, o ser humano descobriu que podia plantar e criar animais. Pela primeira vez na história, deixamos de perseguir a comida e construímos raízes permanentes."
+    },
+    {
+      "type": "content",
+      "title": "A Planície da Suméria: O Berço da História",
+      "date": "Outubro, 2026",
+      "icon": "C:/Users/João/.openmausbot/task-workspaces/d273dfa8-1184-4f1b-bb62-99509a47930e/d6a640a8-0cf6-4393-90ee-d8256811925d/history_icons/icon_slide5_sumer.png",
+      "paragraphs": [
+        [
+          ["No Crescente Fértil, os rios Tigre e Eufrates formaram a ", false],
+          ["Mesopotâmia", true],
+          [", onde a irrigação artificial exigiu engenharia e coordenação social em larga escala.", false]
+        ],
+        [
+          ["Entre 4000 a.C. e 3500 a.C., os sumérios ergueram as ", false],
+          ["primeiras cidades-estado do planeta", true],
+          [" (como Uruk e Ur), estabelecendo arquitetura monumental, leis e governos estruturados.", false]
+        ],
+        [
+          ["Ao conceberem a ", false],
+          ["escrita cuneiforme em tábuas de argila", true],
+          [" para registrar grãos e excedentes, a humanidade rompeu a Pré-História e inaugurou formalmente a História Antiga.", false]
+        ]
+      ],
+      "note": "Chegamos ao ponto culminante da pré-história. Na Suméria, a agricultura produziu excedentes tão grandes que surgiram cidades, leis, templos e a invenção suprema: a escrita. Quando o primeiro sumério gravou um caractere cuneiforme na argila, a pré-história terminou e começou a nossa História documentada."
+    }
+  ]
+}
